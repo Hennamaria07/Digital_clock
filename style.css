@@ -1,0 +1,24 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.container-fluid{
+    width: 100vw;
+    height: 100vh;
+    background-color: black;
+    background-image: url('./img/galactic-night-sky-astronomy-science-combined-generative-ai.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.time {
+    width: 120px;
+    background-color: white;
+    opacity: 0.4;
+    margin-left: 1rem;
+    color: black;
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 8px;
+}
